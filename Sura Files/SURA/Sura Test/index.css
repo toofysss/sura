@@ -1,0 +1,30 @@
+a:link, a:visited { 
+    color: #ffffff;
+    background-color: #ba0505;
+    padding: 10px;
+    text-align: center;
+    display: inline-flex;
+    text-decoration: none;
+    font-size: 25px;
+    border-radius: 100%;
+}
+
+a:hover {
+  color:  #f1ce05;
+  text-decoration: underline;
+}
+
+ img{
+    width: 100%;
+    height:500px;
+
+ }
+
+ footer {
+    color: aliceblue;
+    background-color: #ba0505; 
+    text-align: center;
+    padding: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: s10PX;
+ }

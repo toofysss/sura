@@ -1,0 +1,9 @@
+Fonts used in this design:
+
+Font: Viaoda Libre
+Author: Gydient,Vietanh Nguyen
+Url: https://fonts.google.com/specimen/Viaoda+Libre
+
+Font: Bebas Neue
+Author: Ryoichi Tsunekawa
+Url: https://fonts.google.com/specimen/Bebas+Neue
